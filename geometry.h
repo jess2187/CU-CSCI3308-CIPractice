@@ -1,8 +1,8 @@
 /*
  * geometry.h
- * Andy Sayler
+ * Jessica Sanborn and Skylar Martin
  * CSCI 3308
- * Summer 2014
+ * Fall 2018
  *
  * This file contains a simple geomtery functions.
  *

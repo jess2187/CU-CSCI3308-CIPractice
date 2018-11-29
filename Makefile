@@ -1,4 +1,4 @@
-# Andy Sayler
+# Jessica Sanborn and Skylar Martin
 # CI Practice
 # Summer 2014
 

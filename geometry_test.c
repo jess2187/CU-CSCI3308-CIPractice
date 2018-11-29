@@ -1,6 +1,6 @@
 /*
  * geometry_test.c
- * Jessica Sanborn
+ * Jessica Sanborn and Skylar Martin
  * CSCI 3308
  * Fall 2018
  *
