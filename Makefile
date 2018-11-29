@@ -29,3 +29,9 @@ clean:
 	$(RM) *.o
 	$(RM) geometry_test
 	$(RM) *~
+
+test: geometry_test
+	# gcc geometry_test.c
+	./geometry_test
+
+
